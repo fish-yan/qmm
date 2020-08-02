@@ -1,0 +1,6 @@
+module Pods_BASE_POD_QMM {
+  umbrella header "Pods-BASE_POD-QMM-umbrella.h"
+
+  export *
+  module * { export * }
+}

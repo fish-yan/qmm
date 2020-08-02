@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-BASE_POD-QMM/Pods-BASE_POD-QMM-resources.sh
+${PODS_ROOT}/AMap2DMap/MAMapKit.framework/AMap.bundle
+${PODS_ROOT}/IDMPhotoBrowser/Classes/IDMPhotoBrowser.bundle
+${PODS_ROOT}/IDMPhotoBrowser/Classes/IDMPBLocalizations.bundle
+${PODS_ROOT}/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
+${PODS_ROOT}/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImagePickerController.bundle
+${PODS_ROOT}/UMCShare/UMShare/UMSocialUI/UMSocialSDKResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/YSToolsKit/YSToolsKit.bundle

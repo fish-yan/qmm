@@ -1,0 +1,1 @@
+../../../YSToolsKit/YSToolsKit/Classes/Categories/NSString/NSString+Encode.h

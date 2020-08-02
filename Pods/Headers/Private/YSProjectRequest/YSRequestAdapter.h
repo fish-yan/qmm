@@ -1,0 +1,1 @@
+../../../YSProjectRequest/YSProjectRequest/Classes/YSRequestAdapter.h
